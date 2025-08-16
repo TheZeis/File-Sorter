@@ -1,9 +1,11 @@
 # File-Sorter
 Take ref file, find sibling files in subfolder(s), move ref file
 
+# What does it do
+
 Let's say you have these 4 files:
 
-Degree.png
+Degree.preview.png
 Degree.pdf
 Degree.docx
 Degree.dong
@@ -17,3 +19,22 @@ It also includes a nifty Orphan search to automate that even more; makes the scr
 You also have the option to skip, rename, or overwrite in case of conflicts.
 
 And you can simply write which file extensions the script should consider.
+
+# Install
+
+1. If not already installed, [install python](https://www.python.org/downloads/)
+2. Download the script from here
+3. Slap the script into a folder
+4. Open Terminal
+5. run ´python lora_sorter_gui_enhanced_v15.py´ (or whatever you rename the script to)
+
+# Run
+
+1. Pick a file you want to move
+2. Pick a base folder that contains the subfolders the script should look through
+3. Click "Preview Matches"
+4. If you're satisfied, click "Move"
+
+# Help
+
+I'm not a coder, can't really help ya. This thing is completely coded by ChatGPT, so just give it to Chat and ask it for help if you run into any issues.
