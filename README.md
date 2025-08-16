@@ -26,7 +26,7 @@ And you can simply write which file extensions the script should consider.
 2. Download the script from here
 3. Slap the script into a folder
 4. Open Terminal
-5. run ´python lora_sorter_gui_enhanced_v15.py´ (or whatever you rename the script to)
+5. run ```python lora_sorter_gui_enhanced_v15.py``` (or whatever you rename the script to)
 
 # Run
 
