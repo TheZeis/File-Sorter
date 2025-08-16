@@ -6,8 +6,11 @@ Take ref file, find sibling files in subfolder(s), move ref file
 Let's say you have these 4 files:
 
 Degree.preview.png
+
 Degree.pdf
+
 Degree.docx
+
 Degree.dong
 
 And you starting sorting your files. You're left with "Degree.pdf" in the main folder, but you forgot in which subfolder you sorted the other 3 files.
