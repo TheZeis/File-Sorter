@@ -35,8 +35,9 @@ And you can simply write which file extensions the script should consider.
 
 1. Pick a file you want to move
 2. Pick a base folder that contains the subfolders the script should look through
-3. Click "Preview Matches"
-4. If you're satisfied, click "Move"
+3. Update the file extensions it should consider (e.g. .docx,.txt,.png)
+4. Click "Preview Matches"
+5. If you're satisfied, click "Move"
 
 # Help
 
